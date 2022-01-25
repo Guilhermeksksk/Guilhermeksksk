@@ -1,4 +1,4 @@
-Oi me chamo Guilherme, Seja bem vindo 
+## Oi me chamo Guilherme, Seja bem vindo!
 
 
 - 🎓 Curso Análise e desenvolvimento de sistemas na UDF, estou no segundo semestre
@@ -19,6 +19,8 @@ Oi me chamo Guilherme, Seja bem vindo
    <img align="center" alt="Rafa-Csharp" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   
 </div>
+  
+  ##
   
   <div align="center"> 
  
