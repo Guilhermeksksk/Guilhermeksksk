@@ -5,7 +5,7 @@
 - 💻 Atualmente estou estudando bastante HTML, CSS, PHP, Java Script e Bootstrap através de um curso da UDEMY.
 
   
-  <div align="left" >
+  <div float="left">
   <a href="https://github.com/Guilhermeksksk">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guilhermeksksk&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilhermeksksk&layout=compact&langs_count=7&theme=algolia"/>
