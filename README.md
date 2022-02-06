@@ -2,13 +2,13 @@
 
 
 - 🎓 Curso Análise e desenvolvimento de sistemas na UDF, estou no segundo semestre
-- 💻 Atualmente estou estudando bastante HTML, CSS, PHP, Java Script e Bootstrap através de um curso da UDEMY.
+- 💻 Atualmente estou estudando bastante HTML, CSS, Java Script e Bootstrap através de um curso da UDEMY.
 
   
-  <div float="left">
+  <div>
   <a href="https://github.com/Guilhermeksksk">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guilhermeksksk&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilhermeksksk&layout=compact&langs_count=7&theme=algolia"/>
+  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=Guilhermeksksk&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img lign="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilhermeksksk&layout=compact&langs_count=7&theme=algolia"/>
 </div>
  
  <div style="display: inline_block"><br><br>
