@@ -2,7 +2,7 @@
 
 
 - 🎓 Curso Análise e desenvolvimento de sistemas na UDF, estou no segundo semestre
-- 💻 Atualmente estou estudando bastante HTML, CSS, Java Script e Bootstrap através de um curso da UDEMY.
+- 💻 Atualmente estou estudando bastante HTML, CSS, Java Script, Nodejs e Bootstrap através de um curso da UDEMY.
 
   
   <div align="center">
