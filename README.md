@@ -1,8 +1,8 @@
 ## Oi me chamo Guilherme, Seja bem vindo!
 
 
-- 🎓 Curso Análise e desenvolvimento de sistemas na UDF, estou no segundo semestre
-- 💻 Atualmente estou estudando bastante HTML, CSS, Java Script, Nodejs e Bootstrap através de um curso da UDEMY.
+- 🎓 Sou Formado em Análise e desenvolvimento de sistemas na UDF
+- 💻 Sou Apaixonado pela aréa de Dados,Tenho conhecimento em Python(Pandas e Matplotlib), Power BI, SQL(Mysql, Sql Server, Postgre) e outras ferramentas de analise de dados.
 
   
   <div align="center">
